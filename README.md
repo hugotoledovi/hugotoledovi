@@ -3,7 +3,7 @@
 <font color="#E96F6B">
 
 ## Ola! Sou Victor Hugo ✌️
-
+</br>
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victo_toledoh/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/victor-hugo-toledo-vieira-24920018a)
@@ -24,4 +24,4 @@
 </a>
 <font color='#E96F6B'>
 
-# Meu maior objetivo na programação, é poder fazer aplicações que contribui com a vida das pessoas, transformando o mundo em um lugar mais inclusivo.
+# Meu maior objetivo na programação, é poder fazer aplicações que contribui com a vida das pessoas, transformando o mundo em um lugar mais INCLUSIVO.
