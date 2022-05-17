@@ -2,7 +2,7 @@
 
 <font color="#E96F6B">
 
-## Ola! Sou Victor Hugo ✌️</br></br>
+## Ola! Sou Victor Hugo ✌️
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victo_toledoh/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
