@@ -25,4 +25,4 @@
 
 </a>
 
-  Meu maior objetivo na programação, é poder fazer aplicações que contribuim  com a vida das pessoas, transformando o mundo em um lugar  mais inclusivo.
+  Meu maior objetivo na programação, é poder fazer aplicações que contribui com a vida das pessoas, transformando o mundo em um lugar  mais inclusivo.
