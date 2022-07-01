@@ -7,7 +7,8 @@
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victo_toledoh/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/victor-hugo-toledo-vieira-24920018a)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:seuemail)](mailto:hugotoledovi@gmail.com)
+)](https://www.linkedin.com/in/victor-hugo-toledo-vieira-24920018a)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:seuemail)](mailto:hugotoledovi@gmail.com)
 
 
 </br>
